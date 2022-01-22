@@ -5,7 +5,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h3> Thankyou, Happy Learning Vasu </h3>
+   <h3> Thankyou, Happy Learning Vasu Vihar!! </h3>
 
   
 </form>
