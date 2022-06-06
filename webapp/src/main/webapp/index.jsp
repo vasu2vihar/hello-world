@@ -47,6 +47,7 @@ hr {
 </style>  
 </head>  
 <body>  
+	<h1> STUDENT REGISTRATION FORM </h1>
 <form>  
   <div class="container">  
   <center>  <h1> Student Registeration Form</h1> </center>  
